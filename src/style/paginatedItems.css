@@ -1,0 +1,25 @@
+.previous {
+  position: absolute;
+  left: 0;
+  color: #ffffff;
+  cursor: pointer;
+  list-style-type: none;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.next {
+  color: #ffffff;
+  margin-left: auto;
+  cursor: pointer;
+  list-style-type: none;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.paginatedNumber {
+  display: none;
+}
+.break {
+  display: none;
+}
